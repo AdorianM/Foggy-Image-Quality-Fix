@@ -1,0 +1,1 @@
+This application removes fog from images.
